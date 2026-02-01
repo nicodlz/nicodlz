@@ -21,3 +21,5 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 🔐 **[EasySafe](https://github.com/LaGuerrePiece/easySafe)** Create a Gnosis Safe multisig with non-crypto users. Just an email, web3auth handles the rest.
 
 🔮 **[Prediction Platform](https://github.com/nicodlz/prediction-platform)** Verifiable predictions with cryptographic proof. SHA256 hashing + timestamps, reveal when you're ready.
+
+🎲 **[Singularity](https://github.com/nicodlz/singularity)** Multiplayer strategy board game. Harvest resources, build factories, deploy probes, race to Singularity. boardgame.io & React.
