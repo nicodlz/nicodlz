@@ -4,6 +4,8 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 ## Projects
 
+🏆 **[Vencer](https://github.com/galeralabs/vencer)** AI-powered business intelligence platform for competitive analysis and market insights.
+
 📱 **[Bangr](https://github.com/LaGuerrePiece/bangr)** Mobile DeFi wallet with account abstraction and chain abstraction. Multi-chain, yield vaults, fiat on-ramp, gasless transactions via relayer. React Native & Expo.
 
 🌕 **[Moonolith](https://github.com/LaGuerrePiece/moonolith)** Decentralized uncensorable billboard on Ethereum. Write anything onchain, forever. [moonolith.lol](https://moonolith.lol)
