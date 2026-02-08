@@ -10,6 +10,8 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 🌾 **[Demeter](https://github.com/nicodlz/demeter)** Personal finance dashboard. Income, expenses, crypto, net worth, invoicing, bank import in one place. 100% offline and private.
 
+⚡  **[Hermes](https://github.com/nicodlz/hermes)** A self-hosted CRM designed for solo developers and small teams who want to automate their outreach workflow using an AI agent.
+
 🌉 **[Nuclear Bridge](https://github.com/LaGuerrePiece/p2pBridge)** Fully peer-to-peer cross-chain bridge. No middlemen, no relayers. (HTLC)
 
 🪃 **[Boomerang](https://github.com/LaGuerrePiece/Project-Boomerang)** Browser extension that makes DeFi chain-agnostic. Intercepts dApp calls across chains via LayerZero & Hyperlane.
