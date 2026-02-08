@@ -1,5 +1,3 @@
-# 👋
-
 Builder based in Portugal. I like breaking things apart to understand how they work, and building useful or useless things.
 
 ## Projects
