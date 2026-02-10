@@ -4,9 +4,9 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 📈 **[Vencer.ai](https://github.com/galeralabs/vencer)** Portuguese public procurement platform, streamlining tender discovery for SMEs.
 
-🔐 **[zod-vault](https://github.com/nicodlz/zod-vault)** E2EE encrypted cloud sync for Zustand stores. Passkey-only authentication via WebAuthn PRF, zero-knowledge by design.
+🔐 **[ursalock](https://github.com/nicodlz/ursalock)** E2EE encrypted cloud sync for Zustand stores. Passkey-only authentication via WebAuthn PRF, zero-knowledge by design.
 
-📝 **[VaultMD](https://github.com/nicodlz/vaultmd)** HackMD-style markdown notes with end-to-end encryption. Passkey auth, cross-device sync via zod-vault.
+📝 **[VaultMD](https://github.com/nicodlz/vaultmd)** HackMD-style markdown notes with end-to-end encryption. Passkey auth, cross-device sync via ursalock.
 
 🌾 **[Demeter](https://github.com/nicodlz/demeter)** Personal finance dashboard. Income, expenses, crypto, net worth, invoicing, bank import in one place. 100% offline and private.
 
