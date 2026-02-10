@@ -6,7 +6,7 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 🔐 **[ursalock](https://github.com/nicodlz/ursalock)** E2EE encrypted cloud sync for Zustand stores. Passkey-only authentication via WebAuthn PRF, zero-knowledge by design.
 
-📝 **[VaultMD](https://github.com/nicodlz/vaultmd)** HackMD-style markdown notes with end-to-end encryption. Passkey auth, cross-device sync via ursalock.
+📝 **[Ursanotes](https://github.com/nicodlz/ursanotes)** HackMD-style markdown notes with end-to-end encryption. Passkey auth, cross-device sync via ursalock.
 
 🌾 **[Demeter](https://github.com/nicodlz/demeter)** Personal finance dashboard. Income, expenses, crypto, net worth, invoicing, bank import in one place. 100% offline and private.
 
