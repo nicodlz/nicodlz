@@ -2,6 +2,8 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 ## Projects
 
+🐙 **[Argus](https://github.com/nicodlz/argus)** Minimalistic fast coding harness. TS & OpenTUI.
+
 📈 **[Vencer.ai](https://github.com/galeralabs/vencer)** Portuguese public procurement platform, streamlining tender discovery for SMEs.
 
 🔐 **[ursalock](https://github.com/nicodlz/ursalock)** E2EE encrypted cloud sync for Zustand stores. Passkey-only authentication via WebAuthn PRF, zero-knowledge by design.
