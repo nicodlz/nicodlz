@@ -2,7 +2,7 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 ## Projects
 
-🐙 **[Argus](https://github.com/nicodlz/argus)** Minimalistic fast coding harness. TS & OpenTUI.
+🐙 **[Argus](https://github.com/nicodlz/argus)** Minimalistic but fast coding harness. TS & OpenTUI.
 
 📈 **[Vencer.ai](https://github.com/galeralabs/vencer)** Portuguese public procurement platform, streamlining tender discovery for SMEs.
 
