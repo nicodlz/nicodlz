@@ -2,6 +2,8 @@ Builder based in Portugal. I like breaking things apart to understand how they w
 
 ## Projects
 
+🚀 **[starcraft-match](https://github.com/nicodlz/starcraft-match)** Matching decompilation research for StarCraft: Brood War 1.16.1. Reproducible x86 function reconstruction and exact byte comparison.
+
 🐙 **[Argus](https://github.com/nicodlz/argus)** Minimalistic but fast coding harness. TS & OpenTUI.
 
 📈 **[Vencer.ai](https://github.com/galeralabs/vencer)** Portuguese public procurement platform, streamlining tender discovery for SMEs.
